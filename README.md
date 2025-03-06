@@ -14,7 +14,7 @@ dataset is available for research and academic use.
 
 ## Download 
 
-To download the dataset, you can use the [link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYRTKS), To use the dataset, you should contact the authors for the password of the file.
+To download the dataset, you can use the [link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/WYRTKS). To use the dataset, you should contact the authors for the file password.
 
 
 <div align="right">
