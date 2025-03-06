@@ -1,0 +1,1 @@
+# Khayyam-Offline-Persian-Handwriting-Dataset
